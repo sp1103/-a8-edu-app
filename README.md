@@ -1,6 +1,6 @@
-##A8a-Edu-App
+## A8a-Edu-App
 ---
-###Samuel Powell, Spencer Robinson, Alex Cao, Jaran Holt, Camden Yates
+### Samuel Powell, Spencer Robinson, Alex Cao, Jaran Holt, Camden Yates
 ---
 The project is a cryptography tower defense game. The game focuses on learning
 methods of improving password security through stronger passwords, various hashing
